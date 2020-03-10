@@ -36,7 +36,7 @@ termux-wake-lock;
 
 clear;
 echo "";
-echo -e "\033[33m$(figlet -f New_Hacker_Boy "msf patch")\e[0m"
+echo -e "\033[33m$(figlet "msf patch")\e[0m"
 echo -e "\e[1;32m
 +--------------------------------------*/
 New_Hacker_Boy : (\e[33m1.12.2019\e[32m)
